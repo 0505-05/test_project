@@ -1,0 +1,14 @@
+{
+  "templates": [
+    {
+      "title": "📋 이슈 분석",
+      "type": "simple",
+      "content": "||항목||내용||\n|원인| |"
+    },
+    {
+      "title": "✅ Pre-CR",
+      "type": "form",
+      "form": { ... }
+    }
+  ]
+}
